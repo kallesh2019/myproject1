@@ -3,6 +3,7 @@
                         http://www.apache.org/licenses/
 new line addeed
 second line activated 
+3rd line activated
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
